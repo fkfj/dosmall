@@ -1,0 +1,18 @@
+[General]
+Type = C
+Name = Application_1
+DevelopMode = Debug
+Warnings = -Wall
+Platform =
+Std =
+CC = gcc
+CCC = g++
+Make = make
+IncludePath =
+IncludeFile =
+LibraryPath =
+LibraryFile =
+MainSources =
+MainSourceDepend =
+OtherFlag = 
+
